@@ -7,3 +7,5 @@ scikit-learn
 seaborn
 plotly
 opencv-python
+transformers
+dotenv-python
